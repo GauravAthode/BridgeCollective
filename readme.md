@@ -1,1 +1,1 @@
-Bridge Collective
+BridgeCollective 
